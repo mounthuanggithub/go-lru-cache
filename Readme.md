@@ -1,7 +1,7 @@
-#LocalLRUCache - an in-memory LRU cache with expiration and length for any data type
+# LocalLRUCache - an in-memory LRU cache with expiration and length for any data type
 
 
-###usage
+### usage
 
 ``` 
 func main() {
